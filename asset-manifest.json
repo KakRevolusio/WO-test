@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/WO-test/static/css/main.44f8b8b5.css",
+    "main.js": "/WO-test/static/js/main.2b8a2306.js",
+    "index.html": "/WO-test/index.html",
+    "main.44f8b8b5.css.map": "/WO-test/static/css/main.44f8b8b5.css.map",
+    "main.2b8a2306.js.map": "/WO-test/static/js/main.2b8a2306.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44f8b8b5.css",
+    "static/js/main.2b8a2306.js"
+  ]
+}
